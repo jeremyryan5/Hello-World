@@ -27,7 +27,7 @@ shocco is available as a Hombrew recipe.
 	brew install shocco
 ##### Use
 shocco only wokrs with one file :confused:.
-Command Line:
+###### Command Line:
 	shocco "file name" > "file name".html
 #### THERE ARE NO OTHER OPTIONS FOR SHELL SCRIPTS
 There are litterally more Fortran and Access documentors than there are shell script documentors.
