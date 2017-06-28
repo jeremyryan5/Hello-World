@@ -9,10 +9,10 @@
 >YARD is available as a ruby gem
 	>gem install yard
 
->>#### Use
->>>There are many uses of YARD but the main tool is documentation.
-	yard doc "file_name||directory||repo"
-	yardoc "file_name||directory||repo"
+>#### Use
+>There are many uses of YARD but the main tool is documentation.
+	>>yard doc "file_name||directory||repo"
+	>>yardoc "file_name||directory||repo"
 
 ### Other Options
 #### RDoc
