@@ -5,8 +5,8 @@
 ### YARD
 >YARD is the standard code documentor for Ruby programs. YARD draws from RDoc and for many purposes is very similar. It is easy to use in the terminal and when writing Ruby, the commenting is pretty strait forward to use the self documentor. It also supports tagging within comments that can be traced. Outputs a HTML file that is saved in "doc" folder where documentation takes place. 
 	
->#### Installation
->YARD is available as a ruby gem
+	>#### Installation
+	>YARD is available as a ruby gem
 		gem install yard
 
 >#### Use
