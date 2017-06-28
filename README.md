@@ -1,8 +1,8 @@
-# Reccomendation
+#  Reccomendation
 ## Ruby Documentation
 ### Reccomendation
 #### YARD
-YARD is the standard code documentor for Ruby programs. YARD draws from RDoc and for many purposes is very similar. It is easy to use in the terminal and when writing Ruby, the commenting is pretty strait forward to use the self documentor. It also supports tagging within comments that can be traced. Outputs a HTML file that is saved in "doc" folder where documentation takes place. 
+YARD is the standard code documenter for Ruby programs. YARD draws from RDoc and for many purposes is very similar. It is easy to use in the terminal and when writing Ruby, the commenting is pretty strait forward to use the self documenter. It also supports tagging within comments that can be traced. Outputs a HTML file that is saved in "doc" folder where documentation takes place. 
 ##### Installation
 YARD is available as a ruby gem.
 ###### Command Line
@@ -27,7 +27,7 @@ shocco is available as a Hombrew recipe.
 	brew install shocco
 ##### Use
 shocco only wokrs with one file :confused:.
-###### Command Line:
+###### Command Line
 	shocco "file name" > "file name".html
-#### THERE ARE NO OTHER OPTIONS FOR SHELL SCRIPTS
-There are litterally more Fortran and Access documentors than there are shell script documentors.
+#### ROBODoc
+ROBODoc is a general documenter that claims to support any language with well commented code. ROBODoc is not very advanced and is confusing to use, and is not well documented for using scripts. It requires lots of headers and very particular markers. It also requires practically a paragraph about each script that would be just as much work as documenting by hand. It is customizeable to make that process easier, but the customization doesn't produce a better result than shocco and is much more complicated to use.
